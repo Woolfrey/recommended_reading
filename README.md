@@ -19,7 +19,7 @@
 | | Signal & The Noise: The Art and Science of Prediction, The | Nate Silver | statistics, data, prediction, forecasting |
 | | Solving Complex Problems | Alexander de Haan | problem solving, management |
 | | Start With Why | Simon Sinek | management, business, philosophy |
-| | Strategic Design | Guilia Calabretta | design, management, business |
+| | Strategic Design | Giulia Calabretta | design, management, business |
 | | Thinking, Fast and Slow | Daniel Kahneman | psychology, management, human error |
 | | Thinking in Systems : A Primer | Donella Meadows | systems thinking, management, problem solving |
 | | Today and Tomorrow | Henry Ford | management, production, lean, business |
