@@ -9,6 +9,7 @@
 | | Book of Why, The | Judea Pearl | statistics, computer science |
 | | Case for Working With Your Hands, The | Matthew Crawford | philosophy, work, management, epsitemology |
 | | Change by Design | Tim Brown | design, problem solving, business |
+| | Data Analysis for Politics & Policy | Edward Tufte | statistics, management |
 | | Delft Design Guide, The | TU Delft | design, problem solving, engineering |
 | | Envisioning Information | Edward Tufte | statistics, graphics, charts, diagrams |
 | | Human Error | James Reason | human error, psychology, management |
