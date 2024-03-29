@@ -3,6 +3,7 @@
 | | Title | Author | Categories |
 |-|-------|--------|------------|
 | | Action in Perception | Alva Noe | perception, philosophy |
+| | Bad Science | Ben Goldacre | science, statistics |
 | | Beautiful Evidence | Edward Tufte | statistics, graphics, charts, diagrams |
 | | Envisioning Information | Edward Tufte | statistics, graphics, charts, diagrams |
 | | Human Error | James Reason | human error, psychology, management |
