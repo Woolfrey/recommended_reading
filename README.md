@@ -6,6 +6,7 @@
 | | Bad Science | Ben Goldacre | science, statistics |
 | | Beautiful Evidence | Edward Tufte | statistics, graphics, charts, diagrams |
 | | Biomimicry : Innovation Inspired by Nature | Janine Benyus | design, problem solving |
+| | Book of Why, The | Judea Pearl | statistics, computer science |
 | | Case for Working With Your Hands, The | Matthew Crawford | philosophy, work, management, epsitemology |
 | | Change by Design | Tim Brown | design, problem solving, business |
 | | Delft Design Guide, The | TU Delft | design, problem solving, engineering |
