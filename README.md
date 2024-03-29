@@ -24,7 +24,7 @@
 | | Thinking in Systems : A Primer | Donella Meadows | systems thinking, management, problem solving |
 | | Today and Tomorrow | Henry Ford | management, production, lean, business |
 | | Toyota Production System : Beyond Large Scale Production | Taiichi Ohno | management, production, lean |
-| | Toyota Way : 14 Management Principles from the World's Greatest Manufacturer, The | Jeffrey Liker | management, production, lean, business|
+| | Toyota Way : 14 Management Principles ..., The | Jeffrey Liker | management, production, lean, business|
 | | Visual Display of Quantitative Information | Edward Tufte | statistics, graphics, charts, diagrams |
 | | Visual Explanations | Edward Tufte | statistics, graphics, charts, diagrams |
 | | World Beyond Your Head, The | Matthew Crawford | philosophy, wellbeing, perception |
