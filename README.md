@@ -18,4 +18,4 @@
 | | Toyota Way : 14 Management Principles from the World's Greatest Manufacturer, The | Jeffrey Liker | management, production, lean |
 | | Visual Display of Quantitative Information | Edward Tufte | statistics, graphics, charts, diagrams |
 | | Visual Explanations | Edward Tufte | statistics, graphics, charts, diagrams |
-| | World Beyond Your Head, The | Matthew Crawford | philosophy, wellbeing |
+| | World Beyond Your Head, The | Matthew Crawford | philosophy, wellbeing, perception |
