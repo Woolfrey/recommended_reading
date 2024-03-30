@@ -7,6 +7,7 @@
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/5f125cc5-f0bb-42bb-824e-31f2d9ce6597" width="100" height="auto"> | Beautiful Evidence | Edward Tufte | statistics, graphics, charts, diagrams |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/ca6faef6-2a2e-49e7-ba0d-e90784ee1b89" width="100" height="auto"> | Biomimicry : Innovation Inspired by Nature | Janine Benyus | design, problem solving, systems thinking |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/1b0d7f72-f652-4912-872c-c20d72a73107" width="100" height="auto">| Book of Why, The | Judea Pearl | statistics, computer science |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/28cc28fb-66f0-4656-95e7-d1288c626292" width="100" height="auto"> | Brutal Simplicity of Thought | Lord Saatchi | philosophy? |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/55b2fada-34ad-473a-a8e2-ab3e89d23a8b" width="100" height="auto"> | Case for Working With Your Hands, The | Matthew Crawford | philosophy, work, management, epsitemology |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/8ba37f52-e818-439d-9c93-c4782ea40335" width="100" height="auto"> | Change by Design | Tim Brown | design, problem solving, business |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/4319aec1-20c8-4fbc-aed2-901f054ff181" width="100" height="auto"> | Data Analysis for Politics & Policy | Edward Tufte | statistics, management |
