@@ -17,6 +17,7 @@
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/67aab276-5de0-4852-ae5a-da85b5f2dc20" width="100" height="auto"> | Life Changing Magic of Tidying Up, The | Marie Kondo | wellbeing |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/52e6e2ee-49ae-4dbd-8267-1366fddeb1a5" width="100" height="auto"> | Living with Complexity | Don Norman | design, psychology |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/c138f529-4cd4-46c7-a17c-69083a603e14" width="100" height="auto"> | Logic of Scientific Discovery, The | Karl Popper | philosophy, science |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/eb79473a-0785-4837-a766-a197fce74c9c" width="100" height="auto"> | Mathematics and Art : A Cultural History | Lynn Gamwell | art, mathematics, culture |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/3cccc289-0a32-444a-ad9d-96383236c1dd" width="100" height="auto"> | Noise : A Flaw in Human Judgement | Daniel Kahneman, Olivier Sibony, Cass Sunstein | psychology, management |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/ef0b8751-3d1a-4bd5-b781-ef8a4d4982dd" width="100" height="auto"> | Principles of Scientific Management, The | Frederick Taylor | management, production, lean |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/59614086-b451-4583-a025-894ab3e3c687" width="100" height="auto"> | Signal & The Noise: The Art and Science of Prediction, The | Nate Silver | statistics, data, prediction, forecasting |
