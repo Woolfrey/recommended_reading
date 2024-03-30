@@ -14,6 +14,7 @@
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/99571ee3-f340-4509-816b-98a6721259a1" width="100" height="auto"> | Design of Everyday Things, The | Don Norman | design, psychology, human error |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/e653a5ba-121b-4297-8a01-e145031aaf7c" width="100" height="auto"> | Envisioning Information | Edward Tufte | statistics, graphics, charts, diagrams |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/c09b8a26-cbb3-4eb5-a6fb-b0a69487f1e2" width="100" height="auto"> | Human Error | James Reason | human error, psychology, management |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/67aab276-5de0-4852-ae5a-da85b5f2dc20" width="100" height="auto"> | Life Changing Magic of Tidying Up, The | Marie Kondo | wellbeing |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/52e6e2ee-49ae-4dbd-8267-1366fddeb1a5" width="100" height="auto"> | Living with Complexity | Don Norman | design, psychology |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/c138f529-4cd4-46c7-a17c-69083a603e14" width="100" height="auto"> | Logic of Scientific Discovery, The | Karl Popper | philosophy, science |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/3cccc289-0a32-444a-ad9d-96383236c1dd" width="100" height="auto"> | Noise : A Flaw in Human Judgement | Daniel Kahneman, Olivier Sibony, Cass Sunstein | psychology, management |
