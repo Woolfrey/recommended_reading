@@ -19,12 +19,13 @@
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/59614086-b451-4583-a025-894ab3e3c687" width="100" height="auto"> | Signal & The Noise: The Art and Science of Prediction, The | Nate Silver | statistics, data, prediction, forecasting |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/becbd698-ef7b-454c-8421-ae4ea4a2b25c" width="100" height="auto"> | Solving Complex Problems | Alexander de Haan | systems thinking, problem solving |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/4861bfb5-b9bd-42fe-a332-5b3cf41e2783" width="100" height="auto"> | Start With Why | Simon Sinek | management, business, philosophy |
-| | Strategic Design | Giulia Calabretta | design, management, business |
-| | Thinking, Fast and Slow | Daniel Kahneman | psychology, management, human error |
-| | Thinking in Systems : A Primer | Donella Meadows | systems thinking, problem solving |
-| | Today and Tomorrow | Henry Ford | management, production, lean, business |
-| | Toyota Production System : Beyond Large Scale Production | Taiichi Ohno | management, production, lean |
-| | Toyota Way : 14 Management Principles ..., The | Jeffrey Liker | management, production, lean, business|
-| | Visual Display of Quantitative Information | Edward Tufte | statistics, graphics, charts, diagrams |
-| | Visual Explanations | Edward Tufte | statistics, graphics, charts, diagrams |
-| | World Beyond Your Head, The | Matthew Crawford | philosophy, wellbeing, perception |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/416372f3-da38-4181-bb87-bc3128ef88e3" width="100" height="auto"> | Strategic Design | Giulia Calabretta | design, management, business |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/da5c4c89-03c5-4263-8de0-eb139f2c6455" width="100" height="auto"> | Thinking, Fast and Slow | Daniel Kahneman | psychology, management, human error |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/c31bff77-6d0a-4d66-828f-26555e35443d" width="100" height="auto"> | Thinking in Systems : A Primer | Donella Meadows | systems thinking, problem solving |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/12f6ea1a-6337-4947-9339-64d59334c09a" width="100" height="auto"> | Today and Tomorrow | Henry Ford | management, production, lean, business |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/f7014a50-1b68-4479-ad5c-27227f00935f" width="100" height="auto"> | Toyota Production System : Beyond Large Scale Production | Taiichi Ohno | management, production, lean |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/ff0b4eab-1892-4b28-802e-2cbda91c56e1" width="100" height="auto"> | Toyota Way : 14 Management Principles ..., The | Jeffrey Liker | management, production, lean, business|
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/2bd1eff1-a3f6-4681-a634-0141125fe0d9" width="100" height="auto"> | Visual Display of Quantitative Information | Edward Tufte | statistics, graphics, charts, diagrams |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/ea532b7a-21ad-48fa-b228-76f782516bc2" width="100" height="auto"> | Visual Explanations | Edward Tufte | statistics, graphics, charts, diagrams |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/ed85616d-0a43-4011-a222-bdbd9500c2b5" width="100" height="auto"> | World Beyond Your Head, The | Matthew Crawford | philosophy, wellbeing, perception |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/19d7e470-7237-4b58-9a01-a782bc409c5b" width="100" height="auto"> | Zen and the Art of Motorcycle Maintenance | Robert Pirsig | philosophy |
