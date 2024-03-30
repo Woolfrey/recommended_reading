@@ -5,7 +5,7 @@ Titles marked with `*` I regard as essential reading.
 | | Title | Author | Categories |
 |-|-------|--------|------------|
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/413d5289-c782-4e0e-87a7-d32e172236bf" width="100" height="auto"> | Action in Perception | Alva Noe | perception, philosophy |
-|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/3ca3d163-1905-4d0d-830c-c1e0020210e3" width="100" height="auto"> | *Bad Science | Ben Goldacre | science, statistics |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/3ca3d163-1905-4d0d-830c-c1e0020210e3" width="100" height="auto"> | *Bad Science | Ben Goldacre | science, statistics, medicine |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/5f125cc5-f0bb-42bb-824e-31f2d9ce6597" width="100" height="auto"> | Beautiful Evidence | Edward Tufte | statistics, graphics, charts, diagrams |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/ca6faef6-2a2e-49e7-ba0d-e90784ee1b89" width="100" height="auto"> | Biomimicry : Innovation Inspired by Nature | Janine Benyus | design, problem solving, systems thinking |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/1b0d7f72-f652-4912-872c-c20d72a73107" width="100" height="auto">| Book of Why, The | Judea Pearl | statistics, computer science, A.I. |
@@ -17,6 +17,7 @@ Titles marked with `*` I regard as essential reading.
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/99571ee3-f340-4509-816b-98a6721259a1" width="100" height="auto"> | Design of Everyday Things, The | Don Norman | design, psychology, human error |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/e653a5ba-121b-4297-8a01-e145031aaf7c" width="100" height="auto">| *Envisioning Information | Edward Tufte | statistics, graphics, charts, diagrams |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/c09b8a26-cbb3-4eb5-a6fb-b0a69487f1e2" width="100" height="auto"> | Human Error | James Reason | human error, psychology, management |
+|<img src="https://github.com/Woolfrey/reading_list/assets/62581255/f69d9320-26c1-46cc-a9be-1b184861d6cc" width="100" height="auto"> | I Think You'll Find It's a Bit More Complicated Than That | Ben Goldacre | science, statistics, medicine |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/2726af84-7087-4ae5-808f-fdfc89225fb3" width="100" height="auto"> | *Lateral Thinking | Edward de Bono | creativity, problem solving |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/67aab276-5de0-4852-ae5a-da85b5f2dc20" width="100" height="auto"> | Life Changing Magic of Tidying Up, The | Marie Kondo | wellbeing |
 |<img src="https://github.com/Woolfrey/reading_list/assets/62581255/52e6e2ee-49ae-4dbd-8267-1366fddeb1a5" width="100" height="auto"> | Living with Complexity | Don Norman | design, psychology |
